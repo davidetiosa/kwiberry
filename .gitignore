@@ -1,0 +1,26 @@
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
+
+# Created by https://www.toptal.com/developers/gitignore/api/sass
+# Edit at https://www.toptal.com/developers/gitignore?templates=sass
+
+### Sass ###
+# Ignore all scss/sass files
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+Sass/*
