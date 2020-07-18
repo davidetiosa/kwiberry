@@ -23,4 +23,4 @@
 *.css.map
 *.sass.map
 *.scss.map
-Sass/*
+Sass/
