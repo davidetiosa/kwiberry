@@ -73,3 +73,9 @@ window.addEventListener('load', function(){
         ]
     });
   })
+
+  // ScrollOut
+  ScrollOut({
+    once: true,
+    threshold: .25,
+  });

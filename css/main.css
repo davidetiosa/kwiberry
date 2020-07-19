@@ -1068,3 +1068,16 @@ footer .footer-bottom {
 footer .footer-bottom-copy-text {
   color: white;
 }
+
+[data-scroll] {
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+
+[data-scroll="in"] {
+  opacity: 1;
+}
+
+[data-scroll="out"] {
+  opacity: 0;
+}
