@@ -168,173 +168,149 @@ select:-webkit-autofill:focus {
 }
 
 .btn-pri {
-  -webkit-box-shadow: 0px 0px 0px 1px inset #FFC513;
-          box-shadow: 0px 0px 0px 1px inset #FFC513;
+  border: 1px solid #FFC513;
   background-color: #FFC513;
   color: #000;
 }
 
 .btn-pri:hover, .btn-pri:active {
-  -webkit-box-shadow: 0px 0px 0px 1px inset #F3BB0F;
-          box-shadow: 0px 0px 0px 1px inset #F3BB0F;
+  border: 1px solid #F3BB0F;
   background-color: #F3BB0F;
   color: #000;
 }
 
 .btn-pri:focus {
-  -webkit-box-shadow: 0px 0px 0px 1px inset #FFCC32;
-          box-shadow: 0px 0px 0px 1px inset #FFCC32;
+  border: 1px solid #FFCC32;
   background-color: #FFCC32;
   color: #000;
 }
 
 .btn-pri-dis {
-  -webkit-box-shadow: 0px 0px 0px 1px inset rgba(255, 197, 19, 0.3);
-          box-shadow: 0px 0px 0px 1px inset rgba(255, 197, 19, 0.3);
+  border: 1px solid rgba(255, 197, 19, 0.3);
   background-color: rgba(255, 197, 19, 0.3);
   color: #FFC513;
   cursor: not-allowed;
 }
 
 .btn-pri-icn {
-  -webkit-box-shadow: 0px 0px 0px 1px inset #FFC513;
-          box-shadow: 0px 0px 0px 1px inset #FFC513;
+  border: 0px 0px 0px 1px inset #FFC513;
   background-color: #FFC513;
   color: #000;
 }
 
 .btn-pri-icn:hover, .btn-pri-icn:active {
-  -webkit-box-shadow: 0px 0px 0px 1px inset #F3BB0F;
-          box-shadow: 0px 0px 0px 1px inset #F3BB0F;
+  border: 0px 0px 0px 1px inset #F3BB0F;
   background-color: #F3BB0F;
   color: #000;
 }
 
 .btn-pri-icn:focus {
-  -webkit-box-shadow: 0px 0px 0px 1px inset #FFCC32;
-          box-shadow: 0px 0px 0px 1px inset #FFCC32;
+  border: 0px 0px 0px 1px inset #FFCC32;
   background-color: #FFCC32;
   color: #000;
 }
 
 .btn-pri-icn-dis {
-  -webkit-box-shadow: 0px 0px 0px 1px inset rgba(255, 197, 19, 0.3);
-          box-shadow: 0px 0px 0px 1px inset rgba(255, 197, 19, 0.3);
+  border: 0px 0px 0px 1px inset rgba(255, 197, 19, 0.3);
   background-color: rgba(255, 197, 19, 0.3);
   color: #FFC513;
   cursor: not-allowed;
 }
 
 .btn-sec {
-  -webkit-box-shadow: 0px 0px 0px 1px inset #F2B600;
-          box-shadow: 0px 0px 0px 1px inset #F2B600;
+  border: 1px solid #F2B600;
   background-color: transparent;
   color: #F2B600;
 }
 
 .btn-sec:hover, .btn-sec:active {
-  -webkit-box-shadow: 0px 0px 0px 1px inset #F2B600;
-          box-shadow: 0px 0px 0px 1px inset #F2B600;
+  border: 1px solid #F2B600;
   background-color: rgba(255, 197, 19, 0.16);
   color: #F2B600;
 }
 
 .btn-sec:focus {
-  -webkit-box-shadow: 0px 0px 0px 1px inset #F2B600;
-          box-shadow: 0px 0px 0px 1px inset #F2B600;
+  border: 1px solid #F2B600;
   background-color: rgba(255, 197, 19, 0.3);
   color: #F2B600;
 }
 
 .btn-sec-dis {
-  -webkit-box-shadow: 0px 0px 0px 1px inset rgba(242, 182, 0, 0.6);
-          box-shadow: 0px 0px 0px 1px inset rgba(242, 182, 0, 0.6);
+  border: 1px solid rgba(242, 182, 0, 0.6);
   background-color: transparent;
   color: rgba(242, 182, 0, 0.6);
   cursor: not-allowed;
 }
 
 .btn-sec-icn {
-  -webkit-box-shadow: 0px 0px 0px 1px inset #F2B600;
-          box-shadow: 0px 0px 0px 1px inset #F2B600;
+  border: 0px 0px 0px 1px inset #F2B600;
   background-color: transparent;
   color: #F2B600;
 }
 
 .btn-sec-icn:hover, .btn-sec-icn:active {
-  -webkit-box-shadow: 0px 0px 0px 1px inset #F2B600;
-          box-shadow: 0px 0px 0px 1px inset #F2B600;
+  border: 0px 0px 0px 1px inset #F2B600;
   background-color: rgba(255, 197, 19, 0.16);
   color: #F2B600;
 }
 
 .btn-sec-icn:focus {
-  -webkit-box-shadow: 0px 0px 0px 1px inset #F2B600;
-          box-shadow: 0px 0px 0px 1px inset #F2B600;
+  border: 0px 0px 0px 1px inset #F2B600;
   background-color: rgba(255, 197, 19, 0.3);
   color: #F2B600;
 }
 
 .btn-sec-icn-dis {
-  -webkit-box-shadow: 0px 0px 0px 1px inset rgba(242, 182, 0, 0.6);
-          box-shadow: 0px 0px 0px 1px inset rgba(242, 182, 0, 0.6);
+  border: 0px 0px 0px 1px inset rgba(242, 182, 0, 0.6);
   background-color: transparent;
   color: rgba(242, 182, 0, 0.6);
 }
 
 .btn-tet {
-  -webkit-box-shadow: none;
-          box-shadow: none;
+  border: none;
   background-color: transparent;
   color: #F2B600;
 }
 
 .btn-tet:hover, .btn-tet:active {
-  -webkit-box-shadow: none;
-          box-shadow: none;
+  border: none;
   background-color: rgba(255, 197, 19, 0.16);
   color: #F2B600;
 }
 
 .btn-tet:focus {
-  -webkit-box-shadow: none;
-          box-shadow: none;
+  border: none;
   background-color: rgba(255, 197, 19, 0.3);
   color: #F2B600;
 }
 
 .btn-tet-dis {
-  -webkit-box-shadow: none;
-          box-shadow: none;
+  border: none;
   background-color: transparent;
   color: rgba(242, 182, 0, 0.6);
   cursor: not-allowed;
 }
 
 .btn-tet-icn {
-  -webkit-box-shadow: none;
-          box-shadow: none;
+  border: none;
   background-color: transparent;
   color: #F2B600;
 }
 
 .btn-tet-icn:hover, .btn-tet-icn:active {
-  -webkit-box-shadow: none;
-          box-shadow: none;
+  border: none;
   background-color: rgba(255, 197, 19, 0.16);
   color: #F2B600;
 }
 
 .btn-tet-icn:focus {
-  -webkit-box-shadow: none;
-          box-shadow: none;
+  border: none;
   background-color: rgba(255, 197, 19, 0.3);
   color: #F2B600;
 }
 
 .btn-tet-icn-dis {
-  -webkit-box-shadow: none;
-          box-shadow: none;
+  border: none;
   background-color: transparent;
   color: rgba(242, 182, 0, 0.6);
 }
@@ -371,6 +347,30 @@ header {
           justify-content: center;
   -webkit-transition: .5s;
   transition: .5s;
+}
+
+@media (max-width: 768px) {
+  header nav {
+    padding: 12px !important;
+  }
+  header nav .nav-menu-btn {
+    margin-left: 16px;
+  }
+  header nav .nav-menu-btn button {
+    padding: 7px 11px !important;
+  }
+}
+
+@media (max-width: 414px) {
+  header nav {
+    padding: 12px !important;
+  }
+  header nav .nav-logo {
+    font-size: 24px;
+  }
+  header nav .nav-menu-btn button {
+    padding: 7px 11px !important;
+  }
 }
 
 header nav {
@@ -435,7 +435,7 @@ header nav .nav-menu-btn {
 }
 
 header nav .nav-menu-btn button {
-  padding: 12px 16px;
+  padding: 11px 15px;
 }
 
 header nav .nav-menu-btn button:nth-of-type(2) {
@@ -462,28 +462,11 @@ header nav .nav-menu-acct svg {
   stroke-width: 2;
 }
 
-@media (max-width: 768px) {
-  header nav .nav-menu-btn {
-    margin-left: 16px;
-  }
-  header nav .nav-menu-btn button {
-    padding: 8px 12px;
-  }
-}
-
-@media (max-width: 375px) {
-  header nav .nav-logo {
-    font-size: 24px;
-  }
-  header nav .nav-menu-btn button {
-    padding: 8px 12px;
-  }
-}
-
 main {
   height: 560px;
   background-image: url(../img/one.jpg);
   background-size: cover;
+  background-position: bottom;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -491,6 +474,63 @@ main {
       -ms-flex-pack: center;
           justify-content: center;
   width: 100%;
+  position: relative;
+}
+
+main::before {
+  position: absolute;
+  content: "";
+  background: rgba(92, 92, 92, 0.29);
+  height: 100%;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  main {
+    height: 480px;
+  }
+  main .main {
+    padding: 0px 24px !important;
+  }
+  main .main-cta {
+    max-width: 366px !important;
+  }
+  main .main-cta p#h3 {
+    font-weight: 400;
+    font-size: 33px;
+    letter-spacing: 0.25px;
+    line-height: 36px;
+    text-transform: none;
+  }
+  main .main-food {
+    position: absolute !important;
+    right: 40px !important;
+    bottom: 32px !important;
+  }
+}
+
+@media (max-width: 414px) {
+  main {
+    height: 560px;
+  }
+  main .main {
+    padding: 0px 12px !important;
+  }
+  main .main-cta {
+    max-width: 288px !important;
+  }
+  main .main-cta p#h3 {
+    font-weight: 400;
+    font-size: 23px;
+    letter-spacing: 0px;
+    line-height: 24px;
+    text-transform: none;
+  }
+  main .main-food {
+    position: absolute !important;
+    right: 24px !important;
+    bottom: 24px !important;
+  }
 }
 
 main .main {
@@ -504,6 +544,7 @@ main .main {
       -ms-flex-align: center;
           align-items: center;
   position: relative;
+  z-index: 10;
 }
 
 main .main-cta {
@@ -517,7 +558,7 @@ main .main-cta {
           flex-direction: column;
 }
 
-main .main-cta h3 {
+main .main-cta p {
   color: white;
 }
 
@@ -526,13 +567,12 @@ main .main-cta-srch {
   background-color: white;
   padding: 12px 16px;
   margin-top: 16px;
-  -webkit-box-shadow: 0px 0px 0px 1px inset #FFC513;
-          box-shadow: 0px 0px 0px 1px inset #FFC513;
+  border: 1px solid #FFC513;
 }
 
 main .main-cta-srch:focus-within {
-  -webkit-box-shadow: 0px 0px 0px 2px inset #FFC513;
-          box-shadow: 0px 0px 0px 2px inset #FFC513;
+  -webkit-box-shadow: 0px 0px 0px 1px inset #FFC513;
+          box-shadow: 0px 0px 0px 1px inset #FFC513;
 }
 
 main .main-cta-srch-form {
@@ -617,6 +657,43 @@ main .main-food-shop-name {
   width: 100%;
 }
 
+@media (max-width: 768px) {
+  .category-box {
+    padding: 24px 24px !important;
+  }
+  .category-box-group-contain {
+    padding: 0px 12px;
+  }
+  .category-box-group-contain-prev, .category-box-group-contain-next {
+    padding: 7px !important;
+    top: 14px !important;
+  }
+  .category-box-group-contain-prev {
+    left: -8px !important;
+  }
+  .category-box-group-contain-next {
+    right: -8px !important;
+  }
+}
+
+@media (max-width: 414px) {
+  .category-box {
+    padding: 20px 12px 16px 12px !important;
+  }
+  .category-box-name {
+    margin-bottom: 12px !important;
+  }
+  .category-box-group-contain {
+    padding: 0px 8px;
+  }
+  .category-box-group-contain-prev {
+    left: -4px;
+  }
+  .category-box-group-contain-next {
+    right: -4px;
+  }
+}
+
 .category-box {
   padding: 24px 32px;
   max-width: 1200px;
@@ -676,7 +753,7 @@ main .main-food-shop-name {
 }
 
 .category-box-group-contain-prev, .category-box-group-contain-next {
-  padding: 12px !important;
+  padding: 11px !important;
   border-radius: 50px;
   font-size: 0px;
   top: 10px !important;
@@ -708,6 +785,24 @@ main .main-food-shop-name {
   margin-bottom: 40px;
 }
 
+@media (max-width: 768px) {
+  .filter {
+    margin-bottom: 32px;
+  }
+  .filter-box {
+    padding: 0px 24px !important;
+  }
+}
+
+@media (max-width: 414px) {
+  .filter {
+    margin-bottom: 24px;
+  }
+  .filter-box {
+    padding: 0px 12px !important;
+  }
+}
+
 .filter-box {
   padding: 0px 32px;
   max-width: 1200px;
@@ -718,7 +813,7 @@ main .main-food-shop-name {
 }
 
 .filter-box-btn {
-  padding: 12px 16px;
+  padding: 11px 15px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -729,15 +824,13 @@ main .main-food-shop-name {
       -ms-flex-align: center;
           align-items: center;
   color: black;
-  -webkit-box-shadow: 0px 0px 0px 1px inset black;
-          box-shadow: 0px 0px 0px 1px inset black;
+  border: 1px solid black;
 }
 
 .filter-box-btn:hover, .filter-box-btn:active, .filter-box-btn:focus {
   background-color: transparent;
   color: black;
-  -webkit-box-shadow: 0px 0px 0px 1px inset black;
-          box-shadow: 0px 0px 0px 1px inset black;
+  border: 1px solid black;
 }
 
 .filter-box-btn-icn {
@@ -766,13 +859,12 @@ main .main-food-shop-name {
   width: 100%;
   background-color: white;
   padding: 12px 16px;
-  -webkit-box-shadow: 0px 0px 0px 1px inset black;
-          box-shadow: 0px 0px 0px 1px inset black;
+  border: 1px solid black;
 }
 
 .filter-box-srch:focus-within {
-  -webkit-box-shadow: 0px 0px 0px 2px inset black;
-          box-shadow: 0px 0px 0px 2px inset black;
+  -webkit-box-shadow: 0px 0px 0px 1px inset black;
+          box-shadow: 0px 0px 0px 1px inset black;
 }
 
 .filter-box-srch-form {
@@ -826,6 +918,72 @@ main .main-food-shop-name {
   margin-bottom: 48px;
 }
 
+@media (max-width: 768px) {
+  .restaurants {
+    margin-bottom: 40px !important;
+  }
+  .restaurants-box {
+    padding: 0px 24px !important;
+  }
+  .restaurants-box-title p#h4 {
+    font-weight: 400;
+    font-size: 23px;
+    letter-spacing: 0px;
+    line-height: 24px;
+    text-transform: none;
+  }
+  .restaurants-box-grid {
+    gap: 24px;
+  }
+  .restaurants-box-grid-card {
+    max-width: 348px !important;
+    width: 348px !important;
+  }
+  .restaurants-box-grid-card-img {
+    height: 232px !important;
+  }
+  .restaurants-box-grid-card-logo {
+    width: 44px !important;
+    height: 44px !important;
+  }
+  .restaurants-box-btn {
+    margin-top: 32px !important;
+  }
+}
+
+@media (max-width: 414px) {
+  .restaurants {
+    margin-bottom: 32px !important;
+  }
+  .restaurants-box {
+    padding: 0px 12px !important;
+  }
+  .restaurants-box-title p#h4 {
+    font-weight: 500;
+    font-size: 19px;
+    letter-spacing: 0.15px;
+    line-height: 24px;
+    text-transform: none;
+  }
+  .restaurants-box-grid {
+    gap: 26px 0px !important;
+  }
+  .restaurants-box-grid-card {
+    max-width: 351px !important;
+    width: 351px !important;
+  }
+  .restaurants-box-grid-card-img {
+    height: 216px !important;
+  }
+  .restaurants-box-grid-card-logo {
+    width: 44px !important;
+    height: 44px !important;
+  }
+  .restaurants-box-btn {
+    margin-top: 24px !important;
+  }
+}
+
 .restaurants-box {
   padding: 0px 32px;
   max-width: 1200px;
@@ -855,8 +1013,8 @@ main .main-food-shop-name {
   position: relative;
   -webkit-box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2), 0px 3px 1px rgba(0, 0, 0, 0.12), 0px 2px 2px rgba(0, 0, 0, 0.14);
           box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2), 0px 3px 1px rgba(0, 0, 0, 0.12), 0px 2px 2px rgba(0, 0, 0, 0.14);
-  max-width: 300px;
-  width: 300px;
+  max-width: 308px;
+  width: 308px;
   cursor: pointer;
   margin: 0 auto;
 }
@@ -889,18 +1047,16 @@ main .main-food-shop-name {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  padding: 8px 12px;
+  padding: 7px 11px;
   background-color: #F2F2F2;
   color: black;
-  -webkit-box-shadow: 0px 0px 0px 1px inset #F2F2F2;
-          box-shadow: 0px 0px 0px 1px inset #F2F2F2;
+  border: 1px solid #F2F2F2;
 }
 
 .restaurants-box-grid-card-name-btn:hover, .restaurants-box-grid-card-name-btn:active, .restaurants-box-grid-card-name-btn:focus {
   background-color: #F2F2F2;
   color: black;
-  -webkit-box-shadow: 0px 0px 0px 1px inset #F2F2F2;
-          box-shadow: 0px 0px 0px 1px inset #F2F2F2;
+  border: 1px solid #F2F2F2;
 }
 
 .restaurants-box-grid-card-name-btn-icn {
@@ -947,11 +1103,11 @@ main .main-food-shop-name {
 }
 
 .restaurants-box-btn-one {
-  padding: 8px 12px;
+  padding: 7px 11px;
 }
 
 .restaurants-box-btn-two {
-  padding: 8px 12px;
+  padding: 7px 11px;
   margin-left: 12px;
 }
 
@@ -977,6 +1133,56 @@ footer .footer {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+}
+
+@media (max-width: 640px) {
+  footer .footer-top {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  footer .footer-top-links {
+    margin: 16px 0;
+  }
+}
+
+@media (max-width: 414px) {
+  footer .footer-top {
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+  }
+  footer .footer-top-brnd {
+    margin-right: auto;
+  }
+  footer .footer-top-links {
+    margin: 16px auto 16px 0;
+  }
+  footer .footer-top-links ul {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  footer .footer-top-links ul li {
+    margin: 0 0 8px 0;
+  }
+  footer .footer-top-links ul li:nth-of-type(4) {
+    margin: 0;
+  }
+  footer .footer-top-social {
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 375px) {
+  footer .footer-top-brnd-name {
+    font-size: 24px;
+  }
 }
 
 footer .footer-top {
@@ -1029,7 +1235,7 @@ footer .footer-top-social {
 }
 
 footer .footer-top-social-one, footer .footer-top-social-two {
-  padding: 8px;
+  padding: 7px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
