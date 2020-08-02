@@ -74,7 +74,7 @@ window.addEventListener('load', function(){
     });
   })
 
-  // ScrollOut
+  // Calling ScrollOut
   ScrollOut({
     once: true,
     threshold: .25,

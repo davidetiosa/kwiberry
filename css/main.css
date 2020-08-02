@@ -933,11 +933,11 @@ main .main-food-shop-name {
     text-transform: none;
   }
   .restaurants-box-grid {
-    gap: 24px;
+    gap: 24px 24px !important;
   }
   .restaurants-box-grid-card {
     max-width: 348px !important;
-    width: 348px !important;
+    width: 100% !important;
   }
   .restaurants-box-grid-card-img {
     height: 232px !important;
