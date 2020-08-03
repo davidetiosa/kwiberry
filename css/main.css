@@ -513,6 +513,9 @@ main::before {
   main {
     height: 560px;
   }
+  main::before {
+    background: rgba(92, 92, 92, 0.29);
+  }
   main .main {
     padding: 0px 12px !important;
   }
