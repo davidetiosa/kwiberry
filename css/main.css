@@ -480,7 +480,7 @@ main {
 main::before {
   position: absolute;
   content: "";
-  background: rgba(92, 92, 92, 0.29);
+  background: rgba(92, 92, 92, 0.2);
   height: 100%;
   width: 100%;
 }
@@ -825,6 +825,7 @@ main .main-food-shop-name {
           align-items: center;
   color: black;
   border: 1px solid black;
+  cursor: pointer;
 }
 
 .filter-box-btn:hover, .filter-box-btn:active, .filter-box-btn:focus {
@@ -887,8 +888,13 @@ main .main-food-shop-name {
   width: 100%;
 }
 
-.filter-box-srch-form-box-icn {
+.filter-box-srch-form-box-btn {
+  background: none;
+  cursor: pointer;
   margin-left: 16px;
+}
+
+.filter-box-srch-form-box-btn-icn {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -900,7 +906,7 @@ main .main-food-shop-name {
           justify-content: center;
 }
 
-.filter-box-srch-form-box-icn svg {
+.filter-box-srch-form-box-btn-icn svg {
   stroke: black;
   width: 16px;
   height: 16px;
