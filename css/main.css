@@ -326,7 +326,7 @@ select:-webkit-autofill:focus {
 }
 
 .lg-scroll {
-  color: black !important;
+  color: #FFC513 !important;
 }
 
 .a-clr {
@@ -395,7 +395,7 @@ header nav .nav-logo {
   line-height: 32px;
   letter-spacing: 0px;
   font-weight: 700;
-  color: #FFC513;
+  color: white;
   -webkit-transition: all .5s;
   transition: all .5s;
 }
